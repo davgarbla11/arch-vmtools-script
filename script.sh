@@ -1,0 +1,1 @@
+sudo pacman -S gcc-c++ glib2-devel pam-devel openssl-devel libxml2-devel xmlsec1-devel libX11-devel libXext-devel libXinerama-devel libXi-devel libXrender libXrandr-devel libXtst-devel gdk-pixbuf2-xlib-devel gtk3-devel gtkmm30-devel libtirpc-devel rpcgen libtool-ltdl-devel
